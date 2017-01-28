@@ -1,4 +1,4 @@
 # EntrenamientoSerio
-12345-678910
+1098765
 
 Modulo implementado por jesus en la rama 1.
